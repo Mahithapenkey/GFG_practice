@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 2 | 2 | 0 | 0 | - |
-| GeeksforGeeks | 5 | 3 | 0 | 0 | 2 |
-| **Total** | **7** | **5** | **0** | **0** | **2** |
+| GeeksforGeeks | 6 | 3 | 0 | 0 | 3 |
+| **Total** | **8** | **5** | **0** | **0** | **3** |
 
 ## Solved Problems
 
@@ -20,6 +20,7 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 3 | [Multiplication Table](https://practice.geeksforgeeks.org/problems/multiplication-table/1) | GeeksforGeeks | Easy | C_CPP | [Code](./MultiplicationTable.c) |
 | 4 | [Odd or Even](https://practice.geeksforgeeks.org/problems/odd-or-even3618/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_OddOrEven.c) |
 | 5 | [Sum Of Digits](https://practice.geeksforgeeks.org/problems/sum-of-digits1742/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_SumOfDigits.cpp) |
-| 6 | [Sum of Natural Numbers](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumOfNaturalNumbers.cpp) |
-| 7 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_WhileLoop.c) |
+| 6 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_Factorial.c) |
+| 7 | [Sum of Natural Numbers](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumOfNaturalNumbers.cpp) |
+| 8 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_WhileLoop.c) |
 <!-- COMMITDSA_END -->
