@@ -5,11 +5,11 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 ## Statistics
 
-| Platform | Total Solved | Easy | Medium | Hard |
-| --- | --- | --- | --- | --- |
-| LeetCode | 2 | 2 | 0 | 0 |
-| GeeksforGeeks | 2 | 2 | 0 | 0 |
-| **Total** | **4** | **4** | **0** | **0** |
+| Platform | Total Solved | Easy | Medium | Hard | Basic/School |
+| --- | --- | --- | --- | --- | --- |
+| LeetCode | 2 | 2 | 0 | 0 | - |
+| GeeksforGeeks | 3 | 2 | 0 | 0 | 1 |
+| **Total** | **5** | **4** | **0** | **0** | **1** |
 
 ## Solved Problems
 
@@ -19,4 +19,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 2 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | LeetCode | Easy | C | [Code](./LeetCode/Easy/9_PalindromeNumber.c) |
 | 3 | [Multiplication Table](https://practice.geeksforgeeks.org/problems/multiplication-table/1) | GeeksforGeeks | Easy | C_CPP | [Code](./MultiplicationTable.c) |
 | 4 | [Sum Of Digits](https://practice.geeksforgeeks.org/problems/sum-of-digits1742/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_SumOfDigits.cpp) |
+| 5 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_WhileLoop.c) |
 <!-- COMMITDSA_END -->
