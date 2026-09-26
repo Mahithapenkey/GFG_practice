@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 2 | 2 | 0 | 0 | - |
-| GeeksforGeeks | 10 | 5 | 1 | 0 | 4 |
-| **Total** | **12** | **7** | **1** | **0** | **4** |
+| GeeksforGeeks | 11 | 5 | 1 | 0 | 5 |
+| **Total** | **13** | **7** | **1** | **0** | **5** |
 
 ## Solved Problems
 
@@ -25,6 +25,7 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 8 | [The Else if Statement](https://practice.geeksforgeeks.org/problems/the-else-if-statement/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/TheElseIfStatement.cpp) |
 | 9 | [Check K-th Bit](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/CheckKThBit.c) |
 | 10 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_Factorial.c) |
-| 11 | [Sum of Natural Numbers](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumOfNaturalNumbers.cpp) |
-| 12 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_WhileLoop.c) |
+| 11 | [Floyd's triangle](https://practice.geeksforgeeks.org/problems/floyds-triangle1222/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/FloydsTriangle.c) |
+| 12 | [Sum of Natural Numbers](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumOfNaturalNumbers.cpp) |
+| 13 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_WhileLoop.c) |
 <!-- COMMITDSA_END -->
