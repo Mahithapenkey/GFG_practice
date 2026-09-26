@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 2 | 2 | 0 | 0 | - |
-| GeeksforGeeks | 7 | 4 | 0 | 0 | 3 |
-| **Total** | **9** | **6** | **0** | **0** | **3** |
+| GeeksforGeeks | 8 | 4 | 0 | 0 | 4 |
+| **Total** | **10** | **6** | **0** | **0** | **4** |
 
 ## Solved Problems
 
@@ -21,7 +21,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 4 | [Odd or Even](https://practice.geeksforgeeks.org/problems/odd-or-even3618/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_OddOrEven.c) |
 | 5 | [Prime Number](https://practice.geeksforgeeks.org/problems/prime-number2314/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/PrimeNumber2.c) |
 | 6 | [Sum Of Digits](https://practice.geeksforgeeks.org/problems/sum-of-digits1742/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_SumOfDigits.cpp) |
-| 7 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_Factorial.c) |
-| 8 | [Sum of Natural Numbers](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumOfNaturalNumbers.cpp) |
-| 9 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_WhileLoop.c) |
+| 7 | [Check K-th Bit](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/CheckKThBit.c) |
+| 8 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_Factorial.c) |
+| 9 | [Sum of Natural Numbers](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumOfNaturalNumbers.cpp) |
+| 10 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_WhileLoop.c) |
 <!-- COMMITDSA_END -->
