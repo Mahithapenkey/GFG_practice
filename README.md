@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 2 | 2 | 0 | 0 | - |
-| GeeksforGeeks | 18 | 7 | 3 | 0 | 8 |
-| **Total** | **20** | **9** | **3** | **0** | **8** |
+| GeeksforGeeks | 19 | 7 | 3 | 0 | 9 |
+| **Total** | **21** | **9** | **3** | **0** | **9** |
 
 ## Solved Problems
 
@@ -31,8 +31,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 14 | [Count Perfect Squares](https://practice.geeksforgeeks.org/problems/count-squares3649/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/CountPerfectSquares.cpp) |
 | 15 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_Factorial.c) |
 | 16 | [Floyd's triangle](https://practice.geeksforgeeks.org/problems/floyds-triangle1222/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/FloydsTriangle.c) |
-| 17 | [Print n to 1 Without Loop](https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/PrintNTo1WithoutLoop.c) |
-| 18 | [Solid Rectangle](https://practice.geeksforgeeks.org/problems/solid-rectangle/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/SolidRectangle.c) |
-| 19 | [Sum of Natural Numbers](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumOfNaturalNumbers.cpp) |
-| 20 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_WhileLoop.c) |
+| 17 | [Palindrome Digit Sum](https://practice.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not2751/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/PalindromeDigitSum.cpp) |
+| 18 | [Print n to 1 Without Loop](https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/PrintNTo1WithoutLoop.c) |
+| 19 | [Solid Rectangle](https://practice.geeksforgeeks.org/problems/solid-rectangle/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/SolidRectangle.c) |
+| 20 | [Sum of Natural Numbers](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumOfNaturalNumbers.cpp) |
+| 21 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_WhileLoop.c) |
 <!-- COMMITDSA_END -->
