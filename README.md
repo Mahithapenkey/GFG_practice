@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 2 | 2 | 0 | 0 | - |
-| GeeksforGeeks | 20 | 7 | 3 | 0 | 10 |
-| **Total** | **22** | **9** | **3** | **0** | **10** |
+| GeeksforGeeks | 21 | 7 | 3 | 0 | 11 |
+| **Total** | **23** | **9** | **3** | **0** | **11** |
 
 ## Solved Problems
 
@@ -32,9 +32,10 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 15 | [Count Perfect Squares](https://practice.geeksforgeeks.org/problems/count-squares3649/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/CountPerfectSquares.cpp) |
 | 16 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_Factorial.c) |
 | 17 | [Floyd's triangle](https://practice.geeksforgeeks.org/problems/floyds-triangle1222/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/FloydsTriangle.c) |
-| 18 | [Palindrome Digit Sum](https://practice.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not2751/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/PalindromeDigitSum.cpp) |
-| 19 | [Print n to 1 Without Loop](https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/PrintNTo1WithoutLoop.c) |
-| 20 | [Solid Rectangle](https://practice.geeksforgeeks.org/problems/solid-rectangle/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/SolidRectangle.c) |
-| 21 | [Sum of Natural Numbers](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumOfNaturalNumbers.cpp) |
-| 22 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_WhileLoop.c) |
+| 18 | [Opposite Side of Dice](https://practice.geeksforgeeks.org/problems/the-dice-problem2316/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/OppositeSideOfDice.cpp) |
+| 19 | [Palindrome Digit Sum](https://practice.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not2751/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/PalindromeDigitSum.cpp) |
+| 20 | [Print n to 1 Without Loop](https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/PrintNTo1WithoutLoop.c) |
+| 21 | [Solid Rectangle](https://practice.geeksforgeeks.org/problems/solid-rectangle/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/SolidRectangle.c) |
+| 22 | [Sum of Natural Numbers](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumOfNaturalNumbers.cpp) |
+| 23 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_WhileLoop.c) |
 <!-- COMMITDSA_END -->
