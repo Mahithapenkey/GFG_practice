@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 2 | 2 | 0 | 0 | - |
-| GeeksforGeeks | 22 | 7 | 3 | 0 | 12 |
-| **Total** | **24** | **9** | **3** | **0** | **12** |
+| GeeksforGeeks | 23 | 7 | 3 | 0 | 13 |
+| **Total** | **25** | **9** | **3** | **0** | **13** |
 
 ## Solved Problems
 
@@ -35,8 +35,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 18 | [Opposite Side of Dice](https://practice.geeksforgeeks.org/problems/the-dice-problem2316/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/OppositeSideOfDice.cpp) |
 | 19 | [Palindrome Digit Sum](https://practice.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not2751/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/PalindromeDigitSum.cpp) |
 | 20 | [Print n to 1 Without Loop](https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/PrintNTo1WithoutLoop.c) |
-| 21 | [Set Rightmost Unset Bit](https://practice.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/SetRightmostUnsetBit.cpp) |
-| 22 | [Solid Rectangle](https://practice.geeksforgeeks.org/problems/solid-rectangle/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/SolidRectangle.c) |
-| 23 | [Sum of Natural Numbers](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumOfNaturalNumbers.cpp) |
-| 24 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_WhileLoop.c) |
+| 21 | [Repeated Integer Division by 2](https://practice.geeksforgeeks.org/problems/geek-and-coffee-shop5721/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/RepeatedIntegerDivisionBy2.cpp) |
+| 22 | [Set Rightmost Unset Bit](https://practice.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/SetRightmostUnsetBit.cpp) |
+| 23 | [Solid Rectangle](https://practice.geeksforgeeks.org/problems/solid-rectangle/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/SolidRectangle.c) |
+| 24 | [Sum of Natural Numbers](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumOfNaturalNumbers.cpp) |
+| 25 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_WhileLoop.c) |
 <!-- COMMITDSA_END -->
